@@ -1,0 +1,14 @@
+{
+  "name": "planet-planer",
+  "version": "1.0.0",
+  "description": "planet parser project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel John Kerschl",
+  "license": "MIT",
+  "dependencies": {
+    "csv-parse": "^5.3.5"
+  }
+}
